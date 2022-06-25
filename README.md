@@ -1,4 +1,4 @@
-# next-js-starter
+# nextjs-starter
 
 Kickstart your project with this simple but modern full-stack starter app.
 
